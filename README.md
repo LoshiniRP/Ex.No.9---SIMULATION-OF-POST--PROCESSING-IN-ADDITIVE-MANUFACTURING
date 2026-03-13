@@ -46,9 +46,15 @@ System - Windows 7 or higher, 1 GB RAM.
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## OUTPUT:
+<img width="1912" height="847" alt="Screenshot 2026-03-13 091004" src="https://github.com/user-attachments/assets/ab4f374b-295d-4168-9e9c-d043d13929a2" />
 
-### NAME:
-### REGISTER NUMBER:
+<img width="1904" height="845" alt="Screenshot 2026-03-13 091027" src="https://github.com/user-attachments/assets/2f7da259-a0dc-4175-9a5b-14e334d2b977" />
+
+<img width="1909" height="843" alt="Screenshot 2026-03-13 091046" src="https://github.com/user-attachments/assets/cb8244c9-4d8e-4e51-9db0-395a095ed4d8" />
+
+
+### NAME: R P LOSHINI
+### REGISTER NUMBER: 212225230155
 
 ## RESULT: 
 Thus the simulation on the Postprocessing in additive manufacturing is completed.
