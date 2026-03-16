@@ -32,6 +32,12 @@ System - Windows 7 or higher, 1 GB RAM.
 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT:
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
 <img width="1912" height="847" alt="Screenshot 2026-03-13 091004" src="https://github.com/user-attachments/assets/ab4f374b-295d-4168-9e9c-d043d13929a2" />
 
 <img width="1904" height="845" alt="Screenshot 2026-03-13 091027" src="https://github.com/user-attachments/assets/2f7da259-a0dc-4175-9a5b-14e334d2b977" />
